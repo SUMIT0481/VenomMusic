@@ -25,4 +25,4 @@ SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/og_family_group")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", " https://t.me/ogvenomeditz")
 
 STRING_SESSION = getenv("STRING_SESSION", "AQBQecosuHwaZaxYiVcAygF_QOKz_6iK8VrvFCgFEA31wPErI6tgrTKv6p-9gV-qzxJx7JEyaWqRypiKTXvLX2VAZGyazGCuw5crakUSF5YVDEwKk_awSMVhIyFGv875l3hrTwyt8ouoDs8ifNqxopbh4znEwrDVh1ic9L2fQnOMt0UjKFgHj9Rs77NX9e9W4RcKOqxoB5FUQvMRd31ksulaNXePNo98MReGsWOwsw-d-XzOaHJxmeTA9rB_vQJY7VBsze4RNhy9zHusmsZyD2ok_YF0qwKkhcMPqxSh8tIMddvefBguG28raVKeMjLlbsuGIq_C1ZFVCuULXG5EFyg2AAAAAUbYwo8A")
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5564090687").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "2046668822").split()))
